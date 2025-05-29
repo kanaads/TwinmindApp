@@ -1,0 +1,50 @@
+Effective Date: May 29, 2025
+Developer: kanaads
+App Name: TwinMind Internship App
+
+1. Information We Collect
+The app may collect the following data from users:
+
+Google Account Info: Name, email address (for login/authentication purposes)
+
+Google Calendar Data: Events and metadata (with user permission)
+
+Microphone Audio: For transcription (processed in real-time and not stored permanently)
+
+All data access is done with the user’s explicit permission using Google’s secure OAuth sign-in.
+
+2. How We Use Your Information
+We use the collected data to:
+
+Authenticate users via Google Sign-In
+
+Display upcoming meetings via Google Calendar
+
+Transcribe meetings in real-time for your use
+
+Enable AI-powered chat and summary generation
+
+3. Data Storage
+User data may be temporarily stored locally on the device.
+
+Audio transcriptions may be processed via secure APIs (e.g., OpenAI, Google Gemini).
+
+No personal data is sold or shared with third parties.
+
+4. Your Consent
+By using the app, you consent to:
+
+The collection and use of your data as described above
+
+Integration with Google and OpenAI services
+
+5. Contact
+For any questions about this policy, please contact:
+[your-email@example.com]
+
+🔁 Updates
+This policy may be updated. Changes will be reflected in this file and version-controlled in the public repository.
+
+✅ Hosting Suggestion
+Create a file called privacy.md or PRIVACY_POLICY.md in your GitHub repo.
+
